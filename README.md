@@ -1,4 +1,4 @@
-Core concepts in oop in java  : \n
+Core concepts in oop in java  :    
 1.Encapsulation
 2.Polymorphism
 3.Inheritance
